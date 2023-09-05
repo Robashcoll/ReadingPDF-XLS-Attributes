@@ -1,0 +1,2 @@
+Please note that the code uses the iText7 library for PDF processing, and the DocumentFormat.OpenXml library for working with XLSX and DOCX files. 
+  Make sure to install the respective NuGet packages before compiling the code.
